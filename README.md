@@ -1,8 +1,8 @@
 <h1 align="center" style="border-bottom: none">
     <b>
-        <a href="https://www.google.com"> Title of the project </a><br>
+        <a href="https://www.google.com"> Women's rights hour</a><br>
     </b>
-    ⭐️This is a sample tag line  ⭐️ <br>
+    ⭐️Nāryāḥ surakṣā prathamam⭐️ <br>
 </h1>
 
 # [`Website link`](http://www.google.com)  [`Demo video link `](http://www.google.com) [`Other links `](http://www.google.com) 
