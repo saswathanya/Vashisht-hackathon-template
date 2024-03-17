@@ -1,6 +1,6 @@
 <h1 align="center" style="border-bottom: none">
     <b>
-        <a href="https://www.google.com"> Women's rights hour</a><br>
+        <a href=""> Women's rights app</a><br>
     </b>
     ⭐️Nāryāḥ surakṣā prathamam⭐️ <br>
 </h1>
@@ -26,9 +26,10 @@ mention the description here , mention what does your prototype does  , make sur
 </div>
 
 ## Problem statement 
-mention the problem , and mention the severity of the problem and why we need solution for that  , mention which gorup of people face that problem
+To create a web application that offers simple-to-understand information about women's legal rights in their mother tongue, this project seeks to address this issue and enable women to more effectively advocate for their rights and make informed decisions.
+
 ## About the project
-mention few details and features of the project , how it is solving the problem 
+The web application offers a straightforward user interface with a search function that lets users look up various women's rights subjects. The application displays pertinent data to the user in an understandable manner after retrieving it from a backend server. The project aims to inform women about their legal rights in an easily accessible manner.
 
 ## Technical implemntaion 
 mention the approach and how you have solved the problem with the technology , utilize multiple flowcharts to explain your solutions and approach
@@ -39,7 +40,7 @@ mention the approach and how you have solved the problem with the technology , u
 ![flowchart](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm5X9E8h0kftXOW2B9jORBskdXF12pFKOX_Q&usqp=CAU)
 
 ## Techstacks used 
-`nodejs` , `react` , `ml` , `tech stack 1` , `tech stack 2`
+`nodejs` , `react` 
 
 ## How to run locally 
 explain detailed steps to run your project locally , example to run a react application 
